@@ -1,0 +1,28 @@
+.clear {
+	width:100%;
+	clear: both;
+}
+
+.slider {
+	width: 600px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.slider h1 {
+	text-align: center;
+}
+
+.slider img {
+	border: 1px solid #BADA55;
+	margin-bottom: 20px;
+}
+
+.slider-meta {
+	display: inline;
+}
+
+.slider-controls {
+	margin-left: 40px;
+	display: inline;
+}
